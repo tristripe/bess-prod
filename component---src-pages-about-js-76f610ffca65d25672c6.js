@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbess_portfolio=self.webpackChunkbess_portfolio||[]).push([[682],{4633:function(e,t,n){n.r(t);var l=n(7294),r=n(9616);t.default=function(){return l.createElement(l.Fragment,null,l.createElement(r.Z,null),l.createElement(l.Fragment,null,"Что-то"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-76f610ffca65d25672c6.js.map
